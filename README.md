@@ -76,6 +76,13 @@ Computer Science & Business Systems Student | Java Developer | AI & Cloud Enthus
 
 ---
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jagun15&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🏆 Certifications
 
 * 🎓 Cloud Computing Certification
@@ -83,25 +90,21 @@ Computer Science & Business Systems Student | Java Developer | AI & Cloud Enthus
 * 🌐 Student Innovation Ambassador Program
 * 📚 Continuous Technical Learning & Skill Development
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kirthick-08&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthick-08&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/Kirthick-08">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jagannath12072006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jagun15">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
