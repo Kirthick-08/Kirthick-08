@@ -97,16 +97,6 @@ Computer Science & Business Systems Student | Java Developer | AI & Cloud Enthus
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kirthick-08&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
